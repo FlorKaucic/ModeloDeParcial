@@ -70,7 +70,7 @@ char * normalizar(char * pc)
 
     *aux='\0';
 
-    return prichr;
+    return prichr; º
 }
 
 int str_len(char * c)

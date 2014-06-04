@@ -1,0 +1,16 @@
+1. Normalizar
+- Eliminar blancos iniciales
+- 1ra letra de cada palabra mayuscula
+- Siguientes letras de cada palabra minuscula
+- 1 blanco entre palabras
+- Eliminar blancos finales
+
+2. Matrices
+Producto de matrices generando la matriz resultante de forma dinamica
+
+3. Dado un archivo de texto que contiene pilas:
+Cada pila esta formanda por digitos separados por '/'
+Cada pila esta separada por # se pide:
+- Si se puede armar 2 pilas y obtener la suma de los numeros que representan y almacenar el resultado en un archivo de texto "suma.txt"
+- Si solo puedo armar una pila, sumar los digitos y guardarlo en "suma.txt"
+El archivo tiene al menos una pila hasta n.  n>0
